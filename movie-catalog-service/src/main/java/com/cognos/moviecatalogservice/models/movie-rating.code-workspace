@@ -9,5 +9,11 @@
         {
             "path": "..\\..\\..\\..\\..\\..\\..\\..\\ratings-data-service"
         }
-    ]
+    ],
+    "settings": {
+        "cSpell.words": [
+            "Autowired"
+        ],
+        "java.configuration.updateBuildConfiguration": "automatic"
+    }
 }

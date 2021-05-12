@@ -5,9 +5,9 @@ import lombok.Data;
 @Data
 public class Rating {
     private String movieId;
-    private String ratingId;
+    private int ratingId;
 
-    public Rating(String movieId, String ratingId) {
+    public Rating(String movieId, int ratingId) {
         this.movieId = movieId;
         this.ratingId = ratingId;
     }
